@@ -7,7 +7,5 @@ You will need this **[companion app](https://play.google.com/store/apps/details?
 
 enjoy and happy coding
 
-donations welcome **[here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z3HWZPMEKBVVU&source=url)**
-
 ![](Rsrc/zellviewSpeaker1.jpg)
 
